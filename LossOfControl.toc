@@ -1,0 +1,6 @@
+## Title: LossOfControl
+## Author: Blizzard 
+## Interface: 40000
+
+LossOfControlFrame.lua
+LossOfControlFrame.xml
